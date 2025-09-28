@@ -14,7 +14,7 @@ SoloImpact 맞춤형 AI 활용 지침 설계 요청 공간입니다. 편하게 �
 - **배경**: 간단한 맥락 설명
 
 ### 🔗 관련 링크
-- **웹사이트**: [Solo Impact AI](https://www.soloimpact.ai.kr)
+- **웹사이트**: [SoloImpact](https://www.soloimpact.ai.kr)
 - **지침 라이브러리**: [링크](https://www.soloimpact.ai.kr/tag/instructions-library/)
 
 ### 📧 문의
